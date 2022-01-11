@@ -1,0 +1,449 @@
+"Beaver ", DB1500,  Aug. 20–Sept. 16
+"Box Elder ", DB1501,  Aug. 20–Sept. 16
+"Cache (includes Cache, Crawford Mtn.) ", DB1502,  Aug. 20–Sept. 16
+"Central Mtns, Manti/San Rafael ", DB1503,  Aug. 20–Sept. 16
+"Central Mtns, Nebo ", DB1504,  Aug. 20–Sept. 16
+"Chalk Creek/East Canyon/Morgan-South Rich ", DB1505,  Aug. 20–Sept. 16
+"Fillmore ", DB1506,  Aug. 20–Sept. 16
+"Kamas ", DB1508,  Aug. 20–Sept. 16
+"La Sal, La Sal Mtns ", DB1509,  Aug. 20–Sept. 16
+"Monroe ", DB1510,  Aug. 20–Sept. 16
+"Mt Dutton ", DB1511,  Aug. 20–Sept. 16
+"Nine Mile* ", DB1512,  Aug. 20–Sept. 16
+"North Slope ", DB1513,  Aug. 20–Sept. 16
+"Ogden ", DB1514,  Aug. 20–Sept. 16
+"Oquirrh-Stansbury ", DB1515,  Aug. 20–Sept. 16
+"Panguitch Lake ", DB1516,  Aug. 20–Sept. 16
+"Pine Valley ", DB1517,  Aug. 20–Sept.16
+"Plateau, Boulder/Kaiparowits ", DB1518,  Aug. 20–Sept. 16
+"Plateau, Fishlake ", DB1519,  Aug. 20–Sept. 16
+"Plateau, Thousand Lakes ", DB1520,  Aug. 20–Sept. 16
+"San Juan, Abajo Mtns ", DB1521,  Aug. 20–Sept. 16
+"South Slope, Bonanza/Vernal ", DB1522,  Aug. 20–Sept. 16
+"South Slope, Yellowstone* ", DB1523,  Aug. 20–Sept. 16
+"Southwest Desert ", DB1524,  Aug. 20–Sept. 16
+"Wasatch Mtns, East ", DB1525,  Aug. 20–Sept. 16
+"Wasatch Mtns, West ", DB1526,  Aug. 20–Sept. 16
+"West Desert, Tintic ", DB1527,  Aug. 20–Sept. 16
+"West Desert, West ", DB1528,  Aug. 20–Sept. 16
+"Zion ", DB1529,  Aug. 20–Sept. 16
+"Chalk Creek/East Canyon/Morgan-South Rich ", DB1590,  Oct. 12–Oct. 16
+"Fillmore ", DB1591,  Oct. 12–Oct. 16
+"Kamas ", DB1592,  Oct. 12–Oct. 16
+"Nine Mile* ", DB1593,  Oct. 12–Oct. 16
+"North Slope ", DB1598,  Oct. 12–Oct. 16
+"Panguitch Lake ", DB1594,  Oct. 12–Oct. 16
+"Pine Valley ", DB1595,  Oct. 12–Oct. 16
+"Plateau, Fishlake ", DB1596,  Oct. 12–Oct. 16
+"Zion ", DB1597,  Oct. 12–Oct. 16
+"Beaver ", DB1530,  Oct. 22–Oct. 30
+"Box Elder ", DB1531,  Oct. 22–Oct. 30
+"Cache (includes Cache, Crawford Mtn.) ", DB1532,  Oct. 22–Oct. 30
+"Central Mtns, Manti/San Rafael ", DB1533,  Oct. 22–Oct. 30
+"Central Mtns, Nebo ", DB1534,  Oct. 22–Oct. 30
+"Chalk Creek/East Canyon/Morgan-South Rich ", DB1535,  Oct. 22–Oct. 30
+"Fillmore ", DB1536,  Oct. 22–Oct. 30
+"Kamas ", DB1538,  Oct. 22–Oct. 30
+"La Sal, La Sal Mtns ", DB1539,  Oct. 22–Oct. 30
+"Monroe ", DB1540,  Oct. 22–Oct. 30
+"Mt Dutton ", DB1541,  Oct. 22–Oct. 30
+"Nine Mile* ", DB1542,  Oct. 22–Oct. 30
+"North Slope ", DB1543,  Oct. 22–Oct. 30
+"Ogden ", DB1544,  Oct. 22–Oct. 30
+"Oquirrh-Stansbury ", DB1545,  Oct. 22–Oct. 30
+"Panguitch Lake ", DB1546,  Oct. 22–Oct. 30
+"Pine Valley ", DB1547,  Oct. 22–Oct. 30
+"Plateau, Boulder/Kaiparowits ", DB1548,  Oct. 22–Oct. 30
+"Plateau, Fishlake ", DB1549,  Oct. 22–Oct. 30
+"Plateau, Thousand Lakes ", DB1550,  Oct. 22–Oct. 30
+"San Juan, Abajo Mtns ", DB1551,  Oct. 22–Oct. 30
+"South Slope, Bonanza/Vernal ", DB1552,  Oct. 22–Oct. 30
+"South Slope, Yellowstone* ", DB1553,  Oct. 22–Oct. 30
+"Southwest Desert ", DB1554,  Oct. 22–Oct. 30
+"Wasatch Mtns, East ", DB1555,  Oct. 22–Oct. 30
+"Wasatch Mtns, West ", DB1556,  Oct. 22–Oct. 30
+"West Desert, Tintic ", DB1557,  Oct. 22–Oct. 30
+"West Desert, West ", DB1558,  Oct. 22–Oct. 30
+"Zion ", DB1559,  Oct. 22–Oct. 30
+"Beaver ", DB1560,  Sept. 28–Oct. 6
+"Box Elder ", DB1561,  Sept. 28–Oct. 6
+"Cache (includes Cache, Crawford Mtn.) ", DB1562,  Sept. 28–Oct. 6
+"Central Mtns, Manti/San Rafael ", DB1563,  Sept. 28–Oct. 6
+"Central Mtns, Nebo ", DB1564,  Sept. 28–Oct. 6
+"Chalk Creek/East Canyon/Morgan-South Rich ", DB1565,  Sept. 28–Oct. 6
+"Fillmore ", DB1566,  Sept. 28–Oct. 6
+"Kamas ", DB1568,  Sept. 28–Oct. 6
+"La Sal, La Sal Mtns ", DB1569,  Sept. 28–Oct. 6
+"Monroe ", DB1570,  Sept. 28–Oct. 6
+"Mt Dutton ", DB1571,  Sept. 28–Oct. 6
+"Nine Mile* ", DB1572,  Sept. 28–Oct. 6
+"North Slope ", DB1573,  Sept. 28–Oct. 6
+"Ogden ", DB1574,  Sept. 28–Oct. 6
+"Oquirrh-Stansbury ", DB1575,  Sept. 28–Oct. 6
+"Panguitch Lake ", DB1576,  Sept. 28–Oct. 6
+"Pine Valley ", DB1577,  Sept. 28–Oct. 6
+"Plateau, Boulder/Kaiparowits ", DB1578,  Sept. 28–Oct. 6
+"Plateau, Fishlake ", DB1579,  Sept. 28–Oct. 6
+"Plateau, Thousand Lakes ", DB1580,  Sept. 28–Oct. 6
+"San Juan, Abajo Mtns ", DB1581,  Sept. 28–Oct. 6
+"South Slope, Bonanza/Vernal ", DB1582,  Sept. 28–Oct. 6
+"South Slope, Yellowstone* ", DB1583,  Sept. 28–Oct. 6
+"Southwest Desert ", DB1584,  Sept. 28–Oct. 6
+"Wasatch Mtns, East ", DB1585,  Sept. 28–Oct. 6
+"Wasatch Mtns, West ", DB1586,  Sept. 28–Oct. 6
+"West Desert, Tintic ", DB1587,  Sept. 28–Oct. 6
+"West Desert, West ", DB1588,  Sept. 28–Oct. 6
+"Zion ", DB1589,  Sept. 28–Oct. 6
+"Henry Mtns ", DB1000,  Aug. 20–Sept. 16
+"Paunsaugunt* ", DB1001,  Aug. 20–Sept. 16
+"Antelope Island ", DB1002,  Nov. 7–Nov. 17
+"Henry Mtns ", DB1003,  Oct. 22–Oct. 30
+"Paunsaugunt ", DB1004,  Oct. 22–Oct. 31
+"Henry Mtns ", DB1005,  Sept. 28–Oct. 6
+"Paunsaugunt* ", DB1006,  Sept. 28–Oct. 6
+"Henry Mtns ", DB1007,  All Limited Entry Seasons
+"Paunsaugunt* ", DB1008,  All Limited Entry Seasons
+"Paunsaugunt (archery) ", DB1073,  Aug. 27–Sept. 16
+"Paunsaugunt (muzzleloader) ", DB1074,  Sept. 30–Oct. 5
+"Paunsaugunt (any legal weapon) ", DB1010,  Nov. 1–Nov. 5
+"Paunsaugunt ", DB1058,  Nov. 5–Nov. 20
+"Book Cliffs ", DB1011,  Aug. 20–Sept. 16
+"Fillmore, Oak Creek LE ", DB1012,  Aug. 20–Sept. 16
+"La Sal, Dolores Triangle ", DB1013,  Nov. 5–Nov. 18
+"San Juan, Elk Ridge ", DB1014,  Aug. 20–Sept. 16
+"South Slope, Diamond Mtn ", DB1015,  Aug. 20–Sept. 16
+"West Desert, Vernon ", DB1016,  Aug. 20–Sept. 16
+"Book Cliffs, North ", DB1017,  Oct. 22–Oct. 30
+"Book Cliffs, South ", DB1018,  Oct. 22–Oct. 30
+"Fillmore, Oak Creek LE ", DB1019,  Oct. 22–Oct. 30
+"La Sal, Dolores Triangle ", DB1020,  Nov. 19–Nov. 27
+"San Juan, Elk Ridge ", DB1022,  Oct. 22–Oct. 30
+"South Slope, Diamond Mtn ", DB1023,  Oct. 22–Oct. 30
+"West Desert, Vernon ", DB1024,  Oct. 22–Oct. 30
+"Book Cliffs ", DB1025,  Sept. 28–Oct. 6
+"Cache, Crawford Mtn ", DB1026,  Nov. 12–Nov. 27
+"Fillmore, Oak Creek LE ", DB1029,  Sept. 28–Oct. 6
+"La Sal, Dolores Triangle ", DB1031,  Nov. 30–Dec. 8
+"San Juan, Elk Ridge ", DB1037,  Sept. 28–Oct. 6
+"South Slope, Diamond Mtn ", DB1038,  Sept. 28–Oct. 6
+"West Desert, Vernon ", DB1042,  Sept. 28–Oct. 6
+"Beaver ", DB1059,  Nov. 2–Nov. 10
+"Box Elder ", DB1077,  Nov. 2–Nov. 10
+"Cache (includes Cache, Crawford Mtn) ", DB1078,  Nov. 2–Nov. 10
+"Central Mtns, Manti/San Rafael ", DB1079,  Nov. 2–Nov. 10
+"Central Mtns, Nebo ", DB1080,  Nov. 2–Nov. 10
+"Chalk Creek/East Canyon/Morgan-South Rich ", DB1027,  Nov. 2–Nov. 10
+"Fillmore ", DB1028,  Nov. 2–Nov. 10
+"Kamas ", DB1030,  Nov. 2–Nov. 10
+"La Sal, La Sal Mtns ", DB1081,  Nov. 2–Nov. 10
+"Monroe ", DB1032,  Nov. 2–Nov. 10
+"Mt Dutton ", DB1053,  Nov. 2–Nov. 10
+"Nine Mile* ", DB1033,  Nov. 2–Nov. 10
+"North Slope ", DB1065,  Nov. 2–Nov. 10
+"Ogden ", DB1054,  Nov. 2–Nov. 10
+"Oquirrh-Stansbury ", DB1082,  Nov. 2–Nov. 10
+"Panguitch Lake ", DB1083,  Nov. 2–Nov. 10
+"Pine Valley ", DB1034,  Nov. 2–Nov. 10
+"Plateau, Boulder/Kaiparowits ", DB1084,  Nov. 2–Nov. 10
+"Plateau, Fishlake ", DB1055,  Nov. 2–Nov. 10
+"Plateau, Thousand Lakes ", DB1036,  Nov. 2–Nov. 10
+"San Juan, Abajo Mtns ", DB1085,  Nov. 2–Nov. 10
+"South Slope, Bonanza/Vernal ", DB1086,  Nov. 2–Nov. 10
+"South Slope, Myton† (new hunt) ", DB1094,  Nov. 12–Nov. 27
+"South Slope, Yellowstone* ", DB1039,  Nov. 2–Nov. 10
+"Book Cliffs, Floy Canyon ", DB1090,  Nov. 12–Nov. 27
+"Kaiparowits HAMS ", DB1091,  Nov. 12–Nov. 27
+"Morgan-South Rich ", DB1092,  Nov. 12–Nov. 27
+"Southwest Desert ", DB1040,  Nov. 2–Nov. 10
+"Wasatch Mtns, East ", DB1041,  Nov. 2–Nov. 10
+"Wasatch Mtns, West ", DB1087,  Nov. 2–Nov. 10
+"West Desert, Tintic ", DB1088,  Nov. 2–Nov. 10
+"West Desert, West ", DB1089,  Nov. 2–Nov. 10
+"Zion ", DB1043,  Nov. 2–Nov. 10
+"Book Cliffs ", DB1044,  All Limited Entry Seasons
+"Fillmore, Oak Creek LE ", DB1045,  All Limited Entry Seasons
+"San Juan, Elk Ridge ", DB1046,  All Limited Entry Seasons
+"South Slope, Diamond Mtn ", DB1047,  All Limited Entry Seasons
+"West Desert, Vernon ", DB1048,  All Limited Entry Seasons
+"Beaver, East ", EB3000,  Aug. 20–Sept. 16
+"Book Cliffs, Bitter Creek/South ", EB3001,  Aug. 20–Sept. 16
+"Book Cliffs, Little Creek Roadless ", EB3002,  Aug. 20–Sept. 16
+"Box Elder, Pilot Mtn ", EB3130,  Aug. 20–Sept. 9
+"Cache, Meadowville† ", EB3003,  Aug. 20–Sept. 16
+"Cache, South ", EB3005,  Aug. 20–Sept. 16
+"Central Mtns, Manti ", EB3006,  Aug. 20–Sept. 16
+"Central Mtns, Nebo ", EB3007,  Aug. 20–Sept. 16
+"Fillmore, Pahvant ", EB3008,  Aug. 20–Sept. 16
+"La Sal, La Sal Mtns ", EB3009,  Aug. 20–Sept. 16
+"Monroe ", EB3010,  Aug. 20–Sept. 16
+"Mt Dutton ", EB3011,  Aug. 20–Sept. 16
+"North Slope, Three Corners ", EB3013,  Aug. 20–Sept. 16
+"Panguitch Lake ", EB3015,  Aug. 20–Sept. 16
+"Paunsaugunt ", EB3016,  Aug. 20–Sept. 16
+"Plateau, Boulder ", EB3145,  Aug. 20–Sept. 16
+"Plateau, Fishlake/Thousand Lakes ", EB3018,  Aug. 20–Sept. 16
+"San Juan Bull Elk ", EB3019,  Aug. 20–Sept. 16
+"Southwest Desert ", DB1040,  Nov. 2–Nov. 10
+"Wasatch Mtns, East ", DB1041,  Nov. 2–Nov. 10
+"Wasatch Mtns, West ", DB1087,  Nov. 2–Nov. 10
+"West Desert, Tintic ", DB1088,  Nov. 2–Nov. 10
+"West Desert, West ", DB1089,  Nov. 2–Nov. 10
+"Zion ", DB1043,  Nov. 2–Nov. 10
+"Book Cliffs ", DB1044,  All Limited Entry Seasons
+"Fillmore, Oak Creek LE ", DB1045,  All Limited Entry Seasons
+"San Juan, Elk Ridge ", DB1046,  All Limited Entry Seasons
+"South Slope, Diamond Mtn ", DB1047,  All Limited Entry Seasons
+"West Desert, Vernon ", DB1048,  All Limited Entry Seasons
+"South Slope, Diamond Mtn ", EB3020,  Aug. 20–Sept. 16
+"Southwest Desert, South ", EB3146,  Aug. 20–Sept. 16
+"Wasatch Mtns ", EB3022,  Aug. 20–Sept. 16
+"Beaver, East ", EB3024,  Sept. 17–Sept. 25
+"Book Cliffs, Bitter Creek/South ", EB3026,  Sept. 17–Sept. 25
+"Book Cliffs, Little Creek Roadless ", EB3028,  Sept. 17–Sept. 25
+"Box Elder, Grouse Creek ", EB3147,  Sept. 17–Sept. 25
+"Box Elder, Pilot Mtn ", EB3031,  Sept. 10–Oct.1
+"Cache, Meadowville† ", EB3032,  Sept. 17–Sept. 25
+"Cache, South ", EB3036,  Sept. 17–Sept. 25
+"Central Mtns, Manti ", EB3038,  Sept. 17–Sept. 25
+"Central Mtns, Nebo ", EB3040,  Sept. 17–Sept. 25
+"Fillmore, Pahvant ", EB3042,  Sept. 17–Sept. 25
+"La Sal, La Sal Mtns ", EB3045,  Sept. 17–Sept. 25
+"Monroe ", EB3047,  Sept. 17–Sept. 25
+"Mt Dutton ", EB3049,  Sept. 17–Sept. 25
+"Panguitch Lake ", EB3056,  Sept. 17–Sept. 25
+"Paunsaugunt ", EB3058,  Sept. 17–Sept. 25
+"Plateau, Boulder ", EB3148,  Sept. 17–Sept. 25
+"Plateau, Fishlake/Thousand Lakes ", EB3063,  Sept. 17–Sept. 25
+"San Juan Bull Elk ", EB3066,  Sept. 17–Sept. 25
+"South Slope, Diamond Mtn ", EB3068,  Sept. 17–Sept. 25
+"Southwest Desert, South ", EB3149,  Sept. 17–Sept. 25
+"Wasatch Mtns ", EB3072,  Sept. 17–Sept. 25
+"Box Elder, Grouse Creek ", EB3150,  Oct. 8–Oct. 20
+"Central Mtns, Manti ", EB3126,  Oct. 8–Oct. 20
+"North Slope, Three Corners ", EB3053,  Oct. 8–Oct. 20
+"Paunsaugunt ", EB3059,  Oct. 8–Oct. 20
+"Plateau, Fishlake/Thousand Lakes ", EB3064,  Oct. 8–Oct. 20
+"South Slope, Diamond Mtn ", EB3069,  Oct. 8–Oct. 20
+"Wasatch Mtns ", EB3127,  Oct. 8–Oct. 20
+"Box Elder, Sawtooth ", EB3131,  Sept.1–Sept. 30
+"Cache, North ", EB3132,  Sept. 1–Sept. 30
+"Nine Mile, Anthro ", EB3133,  Sept. 1–Sept. 30
+"Oquirrh-Stansbury ", EB3134,  Sept.1–Sept. 30
+"Plateau, Barney Top/Kaiparowits ", EB3135,  Sept.1–Sept. 30
+"Southwest Desert, North ", EB3136,  Sept.1–Sept. 30
+"West Desert, Deep Creek ", EB3137,  Sept.1–Sept. 30
+"Beaver, East ", EB3025,  Nov. 12–Nov. 20
+"Book Cliffs, Bitter Creek/South ", EB3027,  Nov. 12–Nov. 20
+"Cache, Meadowville† ", EB3033,  Nov. 12–Nov. 20
+"Cache, South ", EB3037,  Nov. 12–Nov. 20
+"Central Mtns, Manti ", EB3039,  Nov. 12–Nov. 20
+"Central Mtns, Nebo ", EB3041,  Nov. 12–Nov. 20
+"Fillmore, Pahvant ", EB3043,  Nov. 12–Nov. 20
+"La Sal, Dolores Triangle ", EB3044,  Dec. 10, 2022–
+"La Sal, La Sal Mtns ", EB3046,  Nov. 12–Nov. 20
+"Monroe ", EB3048,  Nov. 12–Nov. 20
+"Mt Dutton ", EB3050,  Nov. 12–Nov. 20
+"Panguitch Lake ", EB3057,  Nov. 12–Nov. 20
+"Paunsaugunt ", EB3060,  Nov. 12–Nov. 20
+"Plateau, Boulder ", EB3151,  Nov. 12–Nov. 20
+"Plateau, Fishlake/Thousand Lakes ", EB3065,  Nov. 12–Nov. 20
+"San Juan Bull Elk ", EB3067,  Nov. 12–Nov. 20
+"Southwest Desert, South ", EB3152,  Nov. 12–Nov. 20
+"Wasatch Mtns ", EB3073,  Nov. 12–Nov. 20
+"Beaver, East ", EB3077,  Sept. 26–Oct. 7
+"Book Cliffs, Bitter Creek/South ", EB3078,  Sept. 26–Oct. 7
+"Book Cliffs, Little Creek Roadless ", EB3079,  Sept. 26–Oct. 7
+"Box Elder, Grouse Creek ", EB3153,  Sept. 26–Oct. 7
+"Cache, Meadowville† ", EB3081,  Sept. 26–Oct. 7
+"Cache, South ", EB3083,  Sept. 26–Oct. 7
+"Central Mtns, Manti ", EB3084,  Sept. 26–Oct. 7
+"Central Mtns, Nebo ", EB3085,  Sept. 26–Oct. 7
+"Fillmore, Pahvant ", EB3086,  Sept. 26–Oct. 7
+"La Sal, La Sal Mtns ", EB3087,  Sept. 26–Oct. 7
+"Monroe ", EB3088,  Sept. 26–Oct. 7
+"Mt Dutton ", EB3089,  Sept. 26–Oct. 7
+"North Slope, Three Corners ", EB3091,  Nov. 2–Nov. 10
+"Panguitch Lake ", EB3093,  Sept. 26–Oct. 7
+"Paunsaugunt ", EB3094,  Sept. 26–Oct. 7
+"Plateau, Boulder ", EB3154,  Sept. 26–Oct. 7
+"Plateau, Fishlake/Thousand Lakes ", EB3096,  Sept. 26–Oct. 7
+"San Juan Bull Elk ", EB3097,  Sept. 26–Oct. 7
+"South Slope, Diamond Mtn ", EB3098,  Sept. 26–Oct. 7
+"Southwest Desert, South ", EB3155,  Sept. 26–Oct. 7
+"Wasatch Mtns ", EB3100,  Sept. 26–Oct. 7
+"Beaver ", PB5000,  Aug. 20–Sept. 16
+"Book Cliffs, Bitter Creek ", PB5001,  Aug. 20–Sept. 16
+"Book Cliffs, South ", PB5002,  Aug. 20–Sept. 16
+"Box Elder, Promontory† ", PB5003,  Aug. 20–Sept. 16
+"Box Elder, Puddle Valley ", PB5004,  Aug. 20–Sept. 16
+"Box Elder, Snowville ", PB5005,  Aug. 20–Sept. 16
+"Box Elder, West ", PB5006,  Aug. 20–Sept. 16
+"Cache/Morgan-South Rich/Ogden ", PB5007,  Aug. 20–Sept. 16
+"Fillmore, Oak Creek South ", PB5008,  Aug. 20–Sept. 16
+"La Sal, Potash/South Cisco ", PB5009,  Aug. 20–Sept. 16
+"Mt Dutton/Paunsaugunt ", PB5332,  Aug. 20–Sept. 16
+"Nine Mile, Anthro-Myton Bench ", PB5011,  Aug. 20–Sept. 16
+"Nine Mile, Range Creek ", PB5053,  Aug. 20–Sept. 16
+"Plateau, Boulder ", EB3156,  All Limited Entry Seasons
+"Plateau, Fishlake/Thousand Lakes ", EB3120,  All Limited Entry Seasons
+"San Juan Bull Elk ", EB3121,  All Limited Entry Seasons
+"South Slope, Diamond Mtn ", EB3122,  All Limited Entry Seasons
+"Southwest Desert, South ", EB3157,  All Limited Entry Seasons
+"Wasatch Mtns ", EB3124,  All Limited Entry Seasons
+"Beaver, East ", EB3102,  All Limited Entry Seasons
+"Book Cliffs, Bitter Creek/South ", EB3103,  All Limited Entry Seasons
+"Book Cliffs, Little Creek Roadless ", EB3104,  All Limited Entry Seasons
+"Cache, Meadowville† ", EB3105,  All Limited Entry Seasons
+"Cache, South ", EB3107,  All Limited Entry Seasons
+"Central Mtns, Manti ", EB3108,  All Limited Entry Seasons
+"Central Mtns, Nebo ", EB3109,  All Limited Entry Seasons
+"Fillmore, Pahvant ", EB3110,  All Limited Entry Seasons
+"La Sal, La Sal Mtns ", EB3111,  All Limited Entry Seasons
+"Monroe ", EB3112,  All Limited Entry Seasons
+"Mt Dutton ", EB3113,  All Limited Entry Seasons
+"North Slope, Three Corners ", EB3115,  All Limited Entry Seasons
+"Panguitch Lake ", EB3117,  All Limited Entry Seasons
+"Paunsaugunt ", EB3118,  All Limited Entry Seasons
+"Plateau, Boulder ", EB3156,  All Limited Entry Seasons
+"Plateau, Fishlake/Thousand Lakes ", EB3120,  All Limited Entry Seasons
+"San Juan Bull Elk ", EB3121,  All Limited Entry Seasons
+"South Slope, Diamond Mtn ", EB3122,  All Limited Entry Seasons
+"Southwest Desert, South ", EB3157,  All Limited Entry Seasons
+"Wasatch Mtns ", EB3124,  All Limited Entry Seasons
+"Beaver ", PB5000,  Aug. 20–Sept. 16
+"Book Cliffs, Bitter Creek ", PB5001,  Aug. 20–Sept. 16
+"Book Cliffs, South ", PB5002,  Aug. 20–Sept. 16
+"Box Elder, Promontory† ", PB5003,  Aug. 20–Sept. 16
+"Box Elder, Puddle Valley ", PB5004,  Aug. 20–Sept. 16
+"Box Elder, Snowville ", PB5005,  Aug. 20–Sept. 16
+"Box Elder, West ", PB5006,  Aug. 20–Sept. 16
+"Cache/Morgan-South Rich/Ogden ", PB5007,  Aug. 20–Sept. 16
+"Fillmore, Oak Creek South ", PB5008,  Aug. 20–Sept. 16
+"La Sal, Potash/South Cisco ", PB5009,  Aug. 20–Sept. 16
+"Mt Dutton/Paunsaugunt ", PB5332,  Aug. 20–Sept. 16
+"Nine Mile, Anthro-Myton Bench ", PB5011,  Aug. 20–Sept. 16
+"Nine Mile, Range Creek ", PB5053,  Aug. 20–Sept. 16
+"North Slope, Three Corners/West Daggett ", PB5012,  Aug. 20–Sept. 16
+"Panguitch Lake/Zion, North ", PB5054,  Aug. 20–Sept. 16
+"Pine Valley ", PB5013,  Aug. 20–Sept. 16
+"Plateau, Highlands ", PB5064,  Aug. 20–Sept. 16
+"San Juan, Hatch Point ", PB5058,  Aug. 20–Sept. 16
+"San Rafael, Desert ", PB5055,  Aug. 20–Sept. 16
+"San Rafael, North ", PB5015,  Aug. 20–Sept. 16
+"South Slope, Bonanza/Diamond Mtn ", PB5016,  Aug. 20–Sept. 16
+"South Slope, Vernal ", PB5017,  Aug. 20–Sept. 16
+"Southwest Desert ", PB5018,  Aug. 20–Sept. 16
+"West Desert, Riverbed ", PB5019,  Aug. 20–Sept. 16
+"West Desert, Rush Valley ", PB5020,  Aug. 20–Sept. 16
+"West Desert, Snake Valley ", PB5021,  Aug. 20–Sept. 16
+"Cache/Morgan-South Rich/Ogden ", PB5022,  Sept. 28–Oct. 6
+"Fillmore, Oak Creek South ", PB5065,  Sept. 28–Oct. 6
+"Nine Mile, Anthro-Myton Bench ", PB5059,  Sept. 28–Oct. 6
+"North Slope, Three Corners/West Daggett ", PB5066,  Sept. 28–Oct. 6
+"Panguitch Lake/Zion, North ", PB5061,  Sept. 28–Oct. 6
+"Pine Valley ", PB5062,  Sept. 28–Oct. 6
+"Plateau, Highlands ", PB5067,  Sept. 28–Oct. 6
+"San Rafael, North ", PB5056,  Sept. 28–Oct. 6
+"South Slope, Bonanza/Diamond Mtn ", PB5060,  Sept. 28–Oct. 6
+"South Slope, Vernal (new hunt) ", PB5072,  Sept. 28–Oct. 6
+"Southwest Desert ", PB5024,  Sept. 28–Oct. 6
+"Beaver ", PB5025,  Sept. 17–Sept. 25
+"Book Cliffs, Bitter Creek ", PB5026,  Sept. 17–Sept. 25
+"Book Cliffs, South ", PB5027,  Sept. 17–Sept. 25
+"Box Elder, Promontory† ", PB5028,  Sept. 17–Sept. 25
+"Box Elder, Puddle Valley ", PB5029,  Sept. 17–Sept. 25
+"Box Elder, Snowville ", PB5030,  Sept. 17–Sept. 25
+"Box Elder, West ", PB5031,  Sept. 17–Sept. 25
+"Cache/Morgan-South Rich/Ogden ", PB5032,  Sept. 17–Sept. 25
+"Fillmore, Oak Creek South ", PB5033,  Sept. 17–Sept. 25
+"Kaiparowits ", PB5034,  Sept. 17–Sept. 25
+"La Sal, Potash/South Cisco ", PB5035,  Sept. 17–Sept. 25
+"Mt Dutton/Paunsaugunt ", PB5331,  Sept. 17–Sept. 25
+"Nine Mile, Anthro-Myton Bench ", PB5037,  Sept. 17–Sept. 25
+"Nine Mile, Range Creek ", PB5038,  Sept. 17–Sept. 25
+"North Slope, Summit ", PB5039,  Sept. 17–Sept. 25
+"North Slope, Three Corners/West Daggett ", PB5040,  Sept. 17–Sept. 25
+"Panguitch Lake/Zion, North ", PB5041,  Sept. 17–Sept. 25
+"Pine Valley ", PB5042,  Sept. 17–Sept. 25
+"Plateau, Highlands ", PB5063,  Sept. 17–Sept. 25
+"San Juan, Hatch Point ", PB5044,  Sept. 17–Sept. 25
+"San Rafael, Desert ", PB5045,  Sept. 17–Sept. 25
+"San Rafael, North ", PB5046,  Sept. 17–Sept. 25
+"South Slope, Bonanza/Diamond Mtn ", PB5047,  Sept. 17–Sept. 25
+"South Slope, Vernal ", PB5048,  Sept. 17–Sept. 25
+"Southwest Desert ", PB5049,  Sept. 17–Sept. 25
+"West Desert, Riverbed ", PB5050,  Sept. 17–Sept. 25
+"West Desert, Rush Valley ", PB5051,  Sept. 17–Sept. 25
+"West Desert, Snake Valley ", PB5052,  Sept. 17–Sept. 25
+"Cache ", MB6000,  Sept. 17–Oct. 20
+"Chalk Creek† ", MB6001,  Sept. 17–Oct. 20
+"East Canyon† ", MB6002,  Sept. 17–Oct. 20
+"East Canyon, Morgan-Summit† ", MB6003,  Sept. 17–Oct. 20
+"Kamas ", MB6004,  Sept. 17–Oct. 20
+"Morgan-South Rich† ", MB6005,  Sept. 17–Oct. 20
+"North Slope, Summit ", MB6006,  Sept. 17–Oct. 20
+"North Slope, Three Corners/West Daggett ", MB6007,  Sept. 17–Oct. 20
+"Ogden† ", MB6008,  Sept. 17–Oct. 20
+"South Slope, Diamond Mtn/Vernal ", MB6009,  Sept. 17–Oct. 20
+"South Slope, Yellowstone ", MB6010,  Sept. 17–Oct. 20
+"Wasatch Mtns/Central Mtns ", MB6011,  Sept. 17–Oct. 20
+"Book Cliffs, Bitter Creek (new hunt, hunter’s choice) ", BI6534,  Sept. 17–Sept. 25
+"Book Cliffs, Bitter Creek (new hunt, hunter’s choice) ", BI6535,  Oct. 8–Oct. 20
+"Book Cliffs, Bitter Creek (new hunt, cow only) ", BI6536,  Nov. 19–Dec. 4
+"Book Cliffs, Little Creek/South (new hunt, hunter’s choice) ", BI6530,  Sept. 17–Sept. 25
+"Book Cliffs, Little Creek/South (new hunt, hunter’s choice) ", BI6531,  Oct. 8–Oct. 20
+"Book Cliffs, Little Creek/South (new hunt, cow only) ", BI6529,  Oct. 22–Nov. 1
+"Henry Mtns (hunter’s choice) ", BI6503,  Nov. 5–Nov. 16
+"Henry Mtns (hunter’s choice) ", BI6504,  Nov. 19–Nov. 30
+"Henry Mtns (hunter’s choice) ", BI6516,  Dec. 3–Dec. 14
+"Henry Mtns (cow only) ", BI6505,  Dec. 17–Dec. 28
+"Henry Mtns (cow only) ", BI6506,  Dec. 31, 2022–Jan. 17,2023
+"Henry Mtns (archery, hunter’s choice) ", BI6509,  Jan. 18, 2023–Jan. 31, 2023
+"Antelope Island ", BI6500,  Dec. 5–Dec. 7
+"Henry Mtns ", DS6600,  Sept. 17–Nov. 10
+"Kaiparowits, East* ", DS6601,  Sept. 17–Nov. 10
+"Kaiparowits, Escalante ", DS6602,  Sept. 17–Nov. 10
+"Kaiparowits, West ", DS6603,  Sept. 17–Nov. 10
+"La Sal, Potash/South Cisco ", DS6604,  Sept. 17–Nov. 10
+"Pine Valley, Beaver Dam ", DS6621,  Oct. 29–Dec. 25
+"Pine Valley, Virgin River ", DS6620,  Oct. 29–Dec. 25
+"San Juan, Lockhart ", DS6606,  Sept. 17–Nov. 10
+"San Juan, North ", DS6622,  Sept. 17–Nov. 10
+"San Juan, San Juan River ", DS6623,  Sept. 17–Nov. 10
+"San Juan, South ", DS6607,  Sept. 17–Nov. 10
+"San Rafael, Dirty Devil§ ", DS6608,  Sept. 17–Nov. 10
+"San Rafael, Dirty Devil (archery) ", DS6624,  Dec. 1–Dec. 21
+"San Rafael, North ", DS6609,  Sept. 17–Nov. 10
+"San Rafael, South† ", DS6610,  Sept. 17–Nov. 10
+"Zion ", DS6611,  Sept. 17–Nov. 10
+"Book Cliffs, South ", RS6701,  Oct. 29–Nov. 29
+"Box Elder, Newfoundland Mtn ", RS6703,  Oct. 8–Oct. 28
+"Box Elder, Newfoundland Mtn ", RS6704,  Oct. 29–Nov. 18
+"Box Elder, Newfoundland Mtn (archery) ", RS6722,  Nov. 19–Dec. 11
+"Central Mtns, Nebo ", RS6725,  Oct. 29–Nov. 29
+"Fillmore, Oak Creek ", RS6720,  Oct. 8–Oct. 28
+"Fillmore, Oak Creek ", RS6726,  Oct. 29–Nov. 18
+"Fillmore, Oak Creek (archery) ", RS6727,  Nov. 19–Dec. 11
+"Nine Mile, Gray Canyon ", RS6712,  Oct. 29–Nov. 29
+"Nine Mile, Jack Creek ", RS6713,  Oct. 29–Nov. 29
+"North Slope, Three Corners ", RS6708,  Sept. 19–Nov. 30
+"North Slope, Summit/West Daggett ", RS6709,  Sept. 19–Nov. 30
+"Oquirrh-Stansbury, West ", RS6721,  Oct. 29–Nov. 29
+"Wasatch Mtns, West ", RS6724,  Oct. 29–Nov. 29
+"Beaver ", GO6800,  Sept. 10–Oct. 2
+"Beaver ", GO6801,  Oct. 3–Nov. 14
+"Central Mtns, Nebo (archery) ", GO6821,  Sept. 10–Sept. 30
+"Central Mtns, Nebo ", GO6803,  Oct. 1–Nov. 30
+"Chalk Creek/Kamas, Uintas ", GO6804,  Sept. 10–Oct. 31
+"La Sal, La Sal Mtns ", GO6817,  Sept. 10–Nov. 30
+"Mt Dutton ", GO6814,  Sept. 10–Nov. 30
+"North Slope/South Slope, High Uintas Central (archery) ", GO6815,  Aug. 20–Sept. 9
+"North Slope/South Slope, High Uintas Central ", GO6805,  Sept. 10–Oct. 31
+"North Slope/South Slope, High Uintas East ", GO6806,  Sept. 10–Oct. 31
+"North Slope/South Slope, High Uintas Leidy Peak ", GO6807,  Sept. 10–Oct. 31
+"North Slope/South Slope, High Uintas West ", GO6808,  Sept. 10–Oct. 31
+"Ogden, Willard Peak ", GO6810,  Sept. 10–Nov. 30
+"Wasatch Mtns, Box Elder Peak ", GO6818,  Sept. 10–Nov. 30
+"Wasatch Mtns, Lone Peak ", GO6819,  Sept. 10–Nov. 30
+"Wasatch Mtns, Provo Peak ", GO6813,  Sept. 10–Nov. 30
+"Wasatch Mtns, Timpanogos ", GO6820,  Sept. 10–Nov. 30
