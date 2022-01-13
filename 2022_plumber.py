@@ -13,7 +13,7 @@ def get_lowest_points(arr):
             if curr_points > test_val:
                 curr_points = test_val
     if curr_points == 100:
-        return 'N/A'
+        return 'null'
     return curr_points
 
 # Helper method to take string such as '1 in 3' and convert it to float
@@ -51,6 +51,6 @@ with pdfplumber.open(pdf_file) as pdf:
             non_resident_odds = get_success_ratio(non_resident_data[-1, -1])
 
             # final output
-            print(hunt_id, species, weapon, resident_points_gtd, resident_permit_numbers, resident_odds, non_resident_points_gtd, non_resident_permit_numbers, non_resident_odds)
+            print(f"('{hunt_id}', '{species}', '{weapon}', {resident_points_gtd}, {resident_permit_numbers}, {resident_odds}, {non_resident_points_gtd}, {non_resident_permit_numbers}, {non_resident_odds}),")
         except Exception as err:
             print(err)
