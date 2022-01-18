@@ -1,3 +1,4 @@
+-- OG insert command
 insert into hunting_odds_2021
 (
     hunt_id,
@@ -657,3 +658,6 @@ VALUES
 ('DB1596', 'Plateau, Fishlake', 'Any Legal Weapon', 4, 84, 0.1, 4, 84, 0.14),
 ('DB1597', 'Zion', 'Any Legal Weapon', 2, 362, 0.4, 4, 362, 0.24),
 ('DB1598', 'North Slope', 'Any Legal Weapon', 1, 299, 0.53, 1, 299, 0.91);
+
+-- Deer pdf was missing species name in hunt title, this query updates all Deer hunts with species prefix, 'General Deer - '
+update hunting_odds_2021 set species = CONCAT('General Deer - ', species) where hunt_id like '%DB15%';
