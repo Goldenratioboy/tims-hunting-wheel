@@ -39,11 +39,13 @@ def get_rows(weapon, species, resident, points):
     # resident should be true or false, points should be valid integer
 
     DATABASE_URL = os.environ['DATABASE_URL']
+    print(DATABASE_URL)
 
     ## for local testing
     # DATABASE_URL = None
     conn = None
-    if DATABASE_URL is not None:    
+    if DATABASE_URL is not None: 
+        print('should be coming in here')  
         conn = psycopg2.connect('DATABASE_URL', sslmode='require')
     else:
         conn = psycopg2.connect('postgres://postgres:admin@localHost:5432/postgres')
