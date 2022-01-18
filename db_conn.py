@@ -51,6 +51,7 @@ def get_rows(weapon, species, resident, points):
         conn = psycopg2.connect('postgres://postgres:admin@localHost:5432/postgres')
 
     try:
+        
         cur = conn.cursor()
 
         if resident is True:
