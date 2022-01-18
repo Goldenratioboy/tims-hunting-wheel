@@ -38,9 +38,10 @@ def get_rows(weapon, species, resident, points):
     
     # resident should be true or false, points should be valid integer
 
-    # DATABASE_URL = os.environ['DATABASE_URL']
+    DATABASE_URL = os.environ['DATABASE_URL']
 
-    DATABASE_URL = None
+    ## for local testing
+    # DATABASE_URL = None
     conn = None
     if DATABASE_URL is not None:    
         conn = psycopg2.connect('DATABASE_URL', sslmode='require')
