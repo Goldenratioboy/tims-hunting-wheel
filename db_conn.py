@@ -46,12 +46,12 @@ def get_rows(weapon, species, resident, points):
     conn = None
     if DATABASE_URL is not None: 
         print('should be coming in here')  
-        conn = psycopg2.connect('DATABASE_URL', sslmode='require')
+        conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     else:
         conn = psycopg2.connect('postgres://postgres:admin@localHost:5432/postgres')
 
     try:
-        
+
         cur = conn.cursor()
 
         if resident is True:
