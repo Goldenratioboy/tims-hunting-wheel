@@ -46,7 +46,7 @@ with pdfplumber.open(pdf_file) as pdf:
             resident_points_gtd = get_lowest_points(resident_data)
             non_resident_points_gtd = get_lowest_points(non_resident_data)
             resident_permit_numbers = resident_data[-1, 4]
-            non_resident_permit_numbers = resident_data[-1, 4]
+            non_resident_permit_numbers = non_resident_data[-1, 4]
             resident_odds = get_success_ratio(resident_data[-1, -1])
             non_resident_odds = get_success_ratio(non_resident_data[-1, -1])
 
