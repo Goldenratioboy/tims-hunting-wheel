@@ -4,6 +4,18 @@ import json
 
 app = Flask(__name__)
 
+## takes in a 2d array and writes rows as a csv file
+def dictionary_to_csv_string(input):
+    result = ''
+
+    for row in input:
+        for item in row:
+            result += str(item) + ', '
+        result = result[:-2]    
+        result += '<br/>'
+
+    return result
+
 @app.route("/")
 def hello_world():
     return "Health Check"
@@ -22,8 +34,9 @@ def get_odds():
         return 'Invalid input'
     print(args.get('weapon'), args.get('species'), args.get('resident'), args.get('points'))
     return_value = get_rows(args.get('weapon'), args.get('species'), args.get('resident'), args.get('points'))
-    return json.dumps(return_value)
+    return dictionary_to_csv_string(return_value)
 
 
 if __name__ == '__main__':
     app.run(debug=True)
+
