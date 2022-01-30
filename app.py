@@ -10,8 +10,8 @@ def dictionary_to_csv_string(input):
 
     for row in input:
         for item in row:
-            result += str(item) + ', '
-        result = result[:-2]    
+            result += str(item) + '; '
+        result = result[:-2]
         result += '<br/>'
 
     return result
