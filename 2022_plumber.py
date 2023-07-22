@@ -2,7 +2,8 @@ import pdfplumber
 import re
 import numpy as np
 
-pdf_file = "21_deer_odds.pdf"
+# worked for 
+pdf_file = "23_lifetime_deer.pdf"
 
 # Helper method that takes a numpy array. Returns the lowest point value with '1 in 1.0' odds
 def get_lowest_points(arr):

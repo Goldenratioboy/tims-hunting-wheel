@@ -3,7 +3,9 @@ import re
 import numpy as np
 import tabula
 
-pdf_file = "21_bg-odds.pdf"
+
+# worked for 23_bg-odds
+pdf_file = "23_bg-odds.pdf"
 
 # Helper method that takes a numpy array. Returns the lowest point value with '1 in 1.0' odds
 def get_lowest_points(arr):
@@ -65,7 +67,12 @@ with pdfplumber.open(pdf_file) as pdf:
             non_resident_odds = get_success_ratio(non_resident_data[-1, -1])
 
             # final output
-            print(f"('{hunt_id}', '{species}', '{weapon}', {resident_points_gtd}, {resident_permit_numbers}, {resident_odds}, {non_resident_points_gtd}, {non_resident_permit_numbers}, {non_resident_odds}),")
+            # print(f"('{hunt_id}', '{species}', '{weapon}', {resident_points_gtd}, {resident_permit_numbers}, {resident_odds}, {non_resident_points_gtd}, {non_resident_permit_numbers}, {non_resident_odds}),")
+
+            # print directly to csv-friendly format
+            # need to put "" around fields w/ commas
+            print(f"{hunt_id}, \"{species}\", {weapon}, {resident_points_gtd}, {resident_permit_numbers}, {resident_odds}, {non_resident_points_gtd}, {non_resident_permit_numbers}, {non_resident_odds},")
+
         except Exception as err:
             pass  # errors are now for the weird pages in between
             # print(err, i)
